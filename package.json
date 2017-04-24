@@ -1,0 +1,25 @@
+{
+  "name": "graphviz-loader",
+  "version": "0.1.0",
+  "description": "Graphviz loader for Webpack",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpetr/graphviz-loader.git"
+  },
+  "keywords": [
+    "graphviz",
+    "webpack"
+  ],
+  "author": "Tom Petr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tpetr/graphviz-loader/issues"
+  },
+  "homepage": "https://github.com/tpetr/graphviz-loader#readme",
+  "dependencies": {
+    "viz.js": "^1.7.1"
+  }
+}
